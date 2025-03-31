@@ -1,7 +1,7 @@
 ---
-version: 1.3.0
-slug: assist_microphone
-name: Assist Microphone
+version: 1.0.0
+slug: assist_microphone_pulse
+name: Assist Microphone Pulse
 description: Use Assist with local microphone
 url: https://github.com/home-assistant/addons/blob/master/assist_microphone
 hassio_api: true
